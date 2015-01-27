@@ -1,0 +1,128 @@
+c:\users\rob\documents\visual studio 2013\Projects\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\bin\Debug\App.xbf
+c:\users\rob\documents\visual studio 2013\Projects\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\bin\Debug\MainPage.xbf
+c:\users\rob\documents\visual studio 2013\Projects\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\bin\Debug\QuickPrint.WindowsPhone.xr.xml
+c:\users\rob\documents\visual studio 2013\Projects\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\bin\Debug\QuickPrint.WindowsPhone.exe
+c:\users\rob\documents\visual studio 2013\Projects\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\bin\Debug\QuickPrint.WindowsPhone.pdb
+c:\users\rob\documents\visual studio 2013\Projects\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\bin\Debug\resources.pri
+c:\users\rob\documents\visual studio 2013\Projects\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\bin\Debug\AppxManifest.xml
+c:\users\rob\documents\visual studio 2013\Projects\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\bin\Debug\QuickPrint.WindowsPhone.build.appxrecipe
+c:\users\rob\documents\visual studio 2013\Projects\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Debug\App.g.i.cs
+c:\users\rob\documents\visual studio 2013\Projects\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Debug\App.g.cs
+c:\users\rob\documents\visual studio 2013\Projects\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Debug\MainPage.g.i.cs
+c:\users\rob\documents\visual studio 2013\Projects\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Debug\MainPage.g.cs
+c:\users\rob\documents\visual studio 2013\Projects\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+c:\users\rob\documents\visual studio 2013\Projects\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Debug\App.xaml
+c:\users\rob\documents\visual studio 2013\Projects\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Debug\MainPage.xaml
+c:\users\rob\documents\visual studio 2013\Projects\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Debug\App.xbf
+c:\users\rob\documents\visual studio 2013\Projects\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Debug\MainPage.xbf
+c:\users\rob\documents\visual studio 2013\Projects\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+c:\users\rob\documents\visual studio 2013\Projects\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Debug\QuickPrint.WindowsPhone.exe
+c:\users\rob\documents\visual studio 2013\Projects\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Debug\QuickPrint.WindowsPhone.pdb
+c:\users\rob\documents\visual studio 2013\Projects\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Debug\priconfig.xml
+c:\users\rob\documents\visual studio 2013\Projects\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+c:\users\rob\documents\visual studio 2013\Projects\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Debug\layout.resfiles
+c:\users\rob\documents\visual studio 2013\Projects\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+c:\users\rob\documents\visual studio 2013\Projects\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Debug\resources.resfiles
+c:\users\rob\documents\visual studio 2013\Projects\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+c:\users\rob\documents\visual studio 2013\Projects\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Debug\pri.resfiles
+c:\users\rob\documents\visual studio 2013\Projects\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+c:\users\rob\documents\visual studio 2013\Projects\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Debug\qualifiers.txt
+c:\users\rob\documents\visual studio 2013\Projects\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+c:\users\rob\documents\visual studio 2013\Projects\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\rob\documents\visual studio 2013\Projects\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Debug\ProjectArchitectures.txt
+C:\Users\Emanuele\Desktop\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\bin\Debug\App.xbf
+C:\Users\Emanuele\Desktop\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\bin\Debug\MainPage.xbf
+C:\Users\Emanuele\Desktop\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\bin\Debug\QuickPrint.WindowsPhone.xr.xml
+C:\Users\Emanuele\Desktop\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\bin\Debug\QuickPrint.WindowsPhone.exe
+C:\Users\Emanuele\Desktop\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\bin\Debug\QuickPrint.WindowsPhone.pdb
+C:\Users\Emanuele\Desktop\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\bin\Debug\resources.pri
+C:\Users\Emanuele\Desktop\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\bin\Debug\AppxManifest.xml
+C:\Users\Emanuele\Desktop\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\bin\Debug\QuickPrint.WindowsPhone.build.appxrecipe
+C:\Users\Emanuele\Desktop\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Debug\App.g.i.cs
+C:\Users\Emanuele\Desktop\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Debug\App.g.cs
+C:\Users\Emanuele\Desktop\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Debug\MainPage.g.i.cs
+C:\Users\Emanuele\Desktop\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Debug\MainPage.g.cs
+C:\Users\Emanuele\Desktop\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Emanuele\Desktop\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Debug\App.xaml
+C:\Users\Emanuele\Desktop\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Debug\MainPage.xaml
+C:\Users\Emanuele\Desktop\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Debug\App.xbf
+C:\Users\Emanuele\Desktop\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Debug\MainPage.xbf
+C:\Users\Emanuele\Desktop\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Emanuele\Desktop\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Debug\QuickPrint.WindowsPhone.exe
+C:\Users\Emanuele\Desktop\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Debug\QuickPrint.WindowsPhone.pdb
+C:\Users\Emanuele\Desktop\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Debug\priconfig.xml
+C:\Users\Emanuele\Desktop\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+C:\Users\Emanuele\Desktop\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Debug\layout.resfiles
+C:\Users\Emanuele\Desktop\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+C:\Users\Emanuele\Desktop\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Debug\resources.resfiles
+C:\Users\Emanuele\Desktop\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+C:\Users\Emanuele\Desktop\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Debug\pri.resfiles
+C:\Users\Emanuele\Desktop\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+C:\Users\Emanuele\Desktop\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Debug\qualifiers.txt
+C:\Users\Emanuele\Desktop\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Emanuele\Desktop\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Emanuele\Desktop\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Debug\ProjectArchitectures.txt
+C:\Users\Emanuele\Desktop\QuickAccelerometer\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Debug\App.g.i.cs
+C:\Users\Emanuele\Desktop\QuickAccelerometer\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Debug\App.g.cs
+C:\Users\Emanuele\Desktop\QuickAccelerometer\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Debug\MainPage.g.i.cs
+C:\Users\Emanuele\Desktop\QuickAccelerometer\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Debug\MainPage.g.cs
+C:\Users\Emanuele\Desktop\QuickAccelerometer\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Emanuele\Desktop\QuickAccelerometer\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Debug\App.xaml
+C:\Users\Emanuele\Desktop\QuickAccelerometer\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Debug\App.xbf
+C:\Users\Emanuele\Desktop\QuickAccelerometer\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Emanuele\Desktop\QuickAccelerometer\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Debug\MainPage.xaml
+C:\Users\Emanuele\Desktop\QuickAccelerometer\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Debug\MainPage.xbf
+C:\Users\Emanuele\Desktop\QuickAccelerometer\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Debug\QuickPrint.WindowsPhone.exe
+C:\Users\Emanuele\Desktop\QuickAccelerometer\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\bin\Debug\App.xbf
+C:\Users\Emanuele\Desktop\QuickAccelerometer\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\bin\Debug\MainPage.xbf
+C:\Users\Emanuele\Desktop\QuickAccelerometer\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\bin\Debug\QuickPrint.WindowsPhone.xr.xml
+C:\Users\Emanuele\Desktop\QuickAccelerometer\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\bin\Debug\QuickPrint.WindowsPhone.exe
+C:\Users\Emanuele\Desktop\QuickAccelerometer\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\bin\Debug\QuickPrint.WindowsPhone.pdb
+C:\Users\Emanuele\Desktop\QuickAccelerometer\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\bin\Debug\resources.pri
+C:\Users\Emanuele\Desktop\QuickAccelerometer\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\bin\Debug\AppxManifest.xml
+C:\Users\Emanuele\Desktop\QuickAccelerometer\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\bin\Debug\QuickPrint.WindowsPhone.build.appxrecipe
+C:\Users\Emanuele\Desktop\QuickAccelerometer\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Debug\QuickPrint.WindowsPhone.pdb
+C:\Users\Emanuele\Desktop\QuickAccelerometer\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Debug\priconfig.xml
+C:\Users\Emanuele\Desktop\QuickAccelerometer\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+C:\Users\Emanuele\Desktop\QuickAccelerometer\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Debug\layout.resfiles
+C:\Users\Emanuele\Desktop\QuickAccelerometer\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+C:\Users\Emanuele\Desktop\QuickAccelerometer\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Debug\resources.resfiles
+C:\Users\Emanuele\Desktop\QuickAccelerometer\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+C:\Users\Emanuele\Desktop\QuickAccelerometer\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Debug\pri.resfiles
+C:\Users\Emanuele\Desktop\QuickAccelerometer\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+C:\Users\Emanuele\Desktop\QuickAccelerometer\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Debug\qualifiers.txt
+C:\Users\Emanuele\Desktop\QuickAccelerometer\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Emanuele\Desktop\QuickAccelerometer\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Emanuele\Desktop\QuickAccelerometer\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Debug\ProjectArchitectures.txt
+C:\Users\Emanuele\Desktop\Progetto IEM\Con Arduino e Windows Phone\QuickAccelerometer\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\bin\Debug\App.xbf
+C:\Users\Emanuele\Desktop\Progetto IEM\Con Arduino e Windows Phone\QuickAccelerometer\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\bin\Debug\MainPage.xbf
+C:\Users\Emanuele\Desktop\Progetto IEM\Con Arduino e Windows Phone\QuickAccelerometer\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\bin\Debug\QuickPrint.WindowsPhone.xr.xml
+C:\Users\Emanuele\Desktop\Progetto IEM\Con Arduino e Windows Phone\QuickAccelerometer\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\bin\Debug\QuickPrint.WindowsPhone.exe
+C:\Users\Emanuele\Desktop\Progetto IEM\Con Arduino e Windows Phone\QuickAccelerometer\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\bin\Debug\QuickPrint.WindowsPhone.pdb
+C:\Users\Emanuele\Desktop\Progetto IEM\Con Arduino e Windows Phone\QuickAccelerometer\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\bin\Debug\resources.pri
+C:\Users\Emanuele\Desktop\Progetto IEM\Con Arduino e Windows Phone\QuickAccelerometer\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\bin\Debug\AppxManifest.xml
+C:\Users\Emanuele\Desktop\Progetto IEM\Con Arduino e Windows Phone\QuickAccelerometer\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\bin\Debug\QuickPrint.WindowsPhone.build.appxrecipe
+C:\Users\Emanuele\Desktop\Progetto IEM\Con Arduino e Windows Phone\QuickAccelerometer\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Debug\App.g.i.cs
+C:\Users\Emanuele\Desktop\Progetto IEM\Con Arduino e Windows Phone\QuickAccelerometer\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Debug\App.g.cs
+C:\Users\Emanuele\Desktop\Progetto IEM\Con Arduino e Windows Phone\QuickAccelerometer\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Debug\MainPage.g.i.cs
+C:\Users\Emanuele\Desktop\Progetto IEM\Con Arduino e Windows Phone\QuickAccelerometer\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Debug\MainPage.g.cs
+C:\Users\Emanuele\Desktop\Progetto IEM\Con Arduino e Windows Phone\QuickAccelerometer\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Emanuele\Desktop\Progetto IEM\Con Arduino e Windows Phone\QuickAccelerometer\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Debug\App.xaml
+C:\Users\Emanuele\Desktop\Progetto IEM\Con Arduino e Windows Phone\QuickAccelerometer\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Debug\MainPage.xaml
+C:\Users\Emanuele\Desktop\Progetto IEM\Con Arduino e Windows Phone\QuickAccelerometer\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Debug\App.xbf
+C:\Users\Emanuele\Desktop\Progetto IEM\Con Arduino e Windows Phone\QuickAccelerometer\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Debug\MainPage.xbf
+C:\Users\Emanuele\Desktop\Progetto IEM\Con Arduino e Windows Phone\QuickAccelerometer\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Emanuele\Desktop\Progetto IEM\Con Arduino e Windows Phone\QuickAccelerometer\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Debug\QuickPrint.WindowsPhone.exe
+C:\Users\Emanuele\Desktop\Progetto IEM\Con Arduino e Windows Phone\QuickAccelerometer\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Debug\QuickPrint.WindowsPhone.pdb
+C:\Users\Emanuele\Desktop\Progetto IEM\Con Arduino e Windows Phone\QuickAccelerometer\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Debug\priconfig.xml
+C:\Users\Emanuele\Desktop\Progetto IEM\Con Arduino e Windows Phone\QuickAccelerometer\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+C:\Users\Emanuele\Desktop\Progetto IEM\Con Arduino e Windows Phone\QuickAccelerometer\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Debug\layout.resfiles
+C:\Users\Emanuele\Desktop\Progetto IEM\Con Arduino e Windows Phone\QuickAccelerometer\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+C:\Users\Emanuele\Desktop\Progetto IEM\Con Arduino e Windows Phone\QuickAccelerometer\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Debug\resources.resfiles
+C:\Users\Emanuele\Desktop\Progetto IEM\Con Arduino e Windows Phone\QuickAccelerometer\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+C:\Users\Emanuele\Desktop\Progetto IEM\Con Arduino e Windows Phone\QuickAccelerometer\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Debug\pri.resfiles
+C:\Users\Emanuele\Desktop\Progetto IEM\Con Arduino e Windows Phone\QuickAccelerometer\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+C:\Users\Emanuele\Desktop\Progetto IEM\Con Arduino e Windows Phone\QuickAccelerometer\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Debug\qualifiers.txt
+C:\Users\Emanuele\Desktop\Progetto IEM\Con Arduino e Windows Phone\QuickAccelerometer\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Emanuele\Desktop\Progetto IEM\Con Arduino e Windows Phone\QuickAccelerometer\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Emanuele\Desktop\Progetto IEM\Con Arduino e Windows Phone\QuickAccelerometer\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Debug\ProjectArchitectures.txt

@@ -1,0 +1,64 @@
+C:\Users\Rob\Documents\Visual Studio 2013\Projects\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\bin\Release\App.xbf
+C:\Users\Rob\Documents\Visual Studio 2013\Projects\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\bin\Release\MainPage.xbf
+C:\Users\Rob\Documents\Visual Studio 2013\Projects\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\bin\Release\QuickPrint.WindowsPhone.xr.xml
+C:\Users\Rob\Documents\Visual Studio 2013\Projects\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\bin\Release\QuickPrint.WindowsPhone.exe
+C:\Users\Rob\Documents\Visual Studio 2013\Projects\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\bin\Release\QuickPrint.WindowsPhone.pdb
+C:\Users\Rob\Documents\Visual Studio 2013\Projects\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\bin\Release\resources.pri
+C:\Users\Rob\Documents\Visual Studio 2013\Projects\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\bin\Release\AppxManifest.xml
+C:\Users\Rob\Documents\Visual Studio 2013\Projects\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\bin\Release\QuickPrint.WindowsPhone.build.appxrecipe
+C:\Users\Rob\Documents\Visual Studio 2013\Projects\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Release\App.g.i.cs
+C:\Users\Rob\Documents\Visual Studio 2013\Projects\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Release\App.g.cs
+C:\Users\Rob\Documents\Visual Studio 2013\Projects\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Release\MainPage.g.i.cs
+C:\Users\Rob\Documents\Visual Studio 2013\Projects\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Release\MainPage.g.cs
+C:\Users\Rob\Documents\Visual Studio 2013\Projects\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Release\XamlTypeInfo.g.cs
+C:\Users\Rob\Documents\Visual Studio 2013\Projects\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Release\App.xaml
+C:\Users\Rob\Documents\Visual Studio 2013\Projects\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Release\App.xbf
+C:\Users\Rob\Documents\Visual Studio 2013\Projects\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Release\XamlSaveStateFile.xml
+C:\Users\Rob\Documents\Visual Studio 2013\Projects\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Release\MainPage.xaml
+C:\Users\Rob\Documents\Visual Studio 2013\Projects\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Release\MainPage.xbf
+C:\Users\Rob\Documents\Visual Studio 2013\Projects\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Release\QuickPrint.WindowsPhone.exe
+C:\Users\Rob\Documents\Visual Studio 2013\Projects\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Release\QuickPrint.WindowsPhone.pdb
+C:\Users\Rob\Documents\Visual Studio 2013\Projects\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Release\priconfig.xml
+C:\Users\Rob\Documents\Visual Studio 2013\Projects\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Release\priconfig.xml.intermediate
+C:\Users\Rob\Documents\Visual Studio 2013\Projects\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Release\layout.resfiles
+C:\Users\Rob\Documents\Visual Studio 2013\Projects\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Release\layout.resfiles.intermediate
+C:\Users\Rob\Documents\Visual Studio 2013\Projects\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Release\resources.resfiles
+C:\Users\Rob\Documents\Visual Studio 2013\Projects\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Release\resources.resfiles.intermediate
+C:\Users\Rob\Documents\Visual Studio 2013\Projects\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Release\pri.resfiles
+C:\Users\Rob\Documents\Visual Studio 2013\Projects\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Release\pri.resfiles.intermediate
+C:\Users\Rob\Documents\Visual Studio 2013\Projects\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Release\qualifiers.txt
+C:\Users\Rob\Documents\Visual Studio 2013\Projects\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Release\qualifiers.txt.intermediate
+C:\Users\Rob\Documents\Visual Studio 2013\Projects\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Release\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Rob\Documents\Visual Studio 2013\Projects\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Release\ProjectArchitectures.txt
+C:\Users\Emanuele\Desktop\QuickAccelerometer\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\bin\Release\App.xbf
+C:\Users\Emanuele\Desktop\QuickAccelerometer\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\bin\Release\MainPage.xbf
+C:\Users\Emanuele\Desktop\QuickAccelerometer\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\bin\Release\QuickPrint.WindowsPhone.xr.xml
+C:\Users\Emanuele\Desktop\QuickAccelerometer\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\bin\Release\QuickPrint.WindowsPhone.exe
+C:\Users\Emanuele\Desktop\QuickAccelerometer\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\bin\Release\QuickPrint.WindowsPhone.pdb
+C:\Users\Emanuele\Desktop\QuickAccelerometer\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\bin\Release\resources.pri
+C:\Users\Emanuele\Desktop\QuickAccelerometer\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\bin\Release\AppxManifest.xml
+C:\Users\Emanuele\Desktop\QuickAccelerometer\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\bin\Release\QuickPrint.WindowsPhone.build.appxrecipe
+C:\Users\Emanuele\Desktop\QuickAccelerometer\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Release\App.g.i.cs
+C:\Users\Emanuele\Desktop\QuickAccelerometer\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Release\App.g.cs
+C:\Users\Emanuele\Desktop\QuickAccelerometer\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Release\MainPage.g.i.cs
+C:\Users\Emanuele\Desktop\QuickAccelerometer\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Release\MainPage.g.cs
+C:\Users\Emanuele\Desktop\QuickAccelerometer\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Release\XamlTypeInfo.g.cs
+C:\Users\Emanuele\Desktop\QuickAccelerometer\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Release\App.xaml
+C:\Users\Emanuele\Desktop\QuickAccelerometer\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Release\App.xbf
+C:\Users\Emanuele\Desktop\QuickAccelerometer\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Release\XamlSaveStateFile.xml
+C:\Users\Emanuele\Desktop\QuickAccelerometer\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Release\MainPage.xaml
+C:\Users\Emanuele\Desktop\QuickAccelerometer\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Release\MainPage.xbf
+C:\Users\Emanuele\Desktop\QuickAccelerometer\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Release\QuickPrint.WindowsPhone.exe
+C:\Users\Emanuele\Desktop\QuickAccelerometer\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Release\QuickPrint.WindowsPhone.pdb
+C:\Users\Emanuele\Desktop\QuickAccelerometer\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Release\priconfig.xml
+C:\Users\Emanuele\Desktop\QuickAccelerometer\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Release\priconfig.xml.intermediate
+C:\Users\Emanuele\Desktop\QuickAccelerometer\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Release\layout.resfiles
+C:\Users\Emanuele\Desktop\QuickAccelerometer\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Release\layout.resfiles.intermediate
+C:\Users\Emanuele\Desktop\QuickAccelerometer\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Release\resources.resfiles
+C:\Users\Emanuele\Desktop\QuickAccelerometer\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Release\resources.resfiles.intermediate
+C:\Users\Emanuele\Desktop\QuickAccelerometer\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Release\pri.resfiles
+C:\Users\Emanuele\Desktop\QuickAccelerometer\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Release\pri.resfiles.intermediate
+C:\Users\Emanuele\Desktop\QuickAccelerometer\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Release\qualifiers.txt
+C:\Users\Emanuele\Desktop\QuickAccelerometer\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Release\qualifiers.txt.intermediate
+C:\Users\Emanuele\Desktop\QuickAccelerometer\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Release\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Emanuele\Desktop\QuickAccelerometer\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\obj\Release\ProjectArchitectures.txt

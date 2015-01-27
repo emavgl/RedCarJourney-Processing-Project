@@ -1,0 +1,1 @@
+C:\Users\Emanuele\Desktop\QuickAccelerometer\QuickPrint\QuickPrint\QuickPrint.Windows\QuickPrint.Windows.csproj;neutral

@@ -1,0 +1,1 @@
+C:\Users\Emanuele\Desktop\Progetto IEM\Con Arduino e Windows Phone\QuickAccelerometer\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\QuickPrint.WindowsPhone.csproj;neutral

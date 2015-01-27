@@ -1,0 +1,1 @@
+C:\Users\Emanuele\Desktop\QuickAccelerometer\QuickPrint\QuickPrint\QuickPrint.WindowsPhone\QuickPrint.WindowsPhone.csproj;neutral
