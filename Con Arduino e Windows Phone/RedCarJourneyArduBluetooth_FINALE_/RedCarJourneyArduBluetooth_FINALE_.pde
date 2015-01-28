@@ -11,6 +11,7 @@ Serial myPort;  // Create object from Serial class
 
 AudioPlayer player;
 Minim minim;  //audio context
+IOClass reader;
 
 PImage bg1, bg2;
 int counter;
@@ -19,10 +20,22 @@ boolean musicOn;
 Timer contaSecondi;
 int randomGreenCoin = (int)random(500, 3000);
 int randomRedCoin = (int)random(500, 3000);
+int maxScore = 0;
 
 int currentVel;
 void setup()
 {
+  reader = new IOClass("ms.ema");
+  String tempScore = reader.ReadLine();
+  if (tempScore != null)
+  {
+    maxScore = int(tempScore);
+  }
+  else
+  {
+    maxScore = 0;
+  }
+  
   minim = new Minim(this);
   player = minim.loadFile("file.mp3", 2048);
   player.play();
@@ -127,6 +140,11 @@ public void checkStat()
   { 
     noLoop();
     background(bg1);
+    if (nuovogioco.getScore() > maxScore)
+    {
+      maxScore = nuovogioco.getScore();
+      reader.WriteLine(str(maxScore));
+    }
     s = "Life " + String.valueOf(nuovogioco.getLifes());
     s2 = "Score " + String.valueOf(nuovogioco.getScore());
     fill(50);
@@ -134,7 +152,7 @@ public void checkStat()
     text(s2, 6, 95, 50, 80);
     textSize(50);
     fill(0);
-    String s3 = "GAME OVER.\nPRESS 'N' TO RESTART";
+    String s3 = "GAME OVER.\nPRESS 'N' TO RESTART. \nYOUR RECORD IS:" + str(maxScore);
     text(s3, 200, 500);
   }
   
@@ -151,10 +169,12 @@ void MusicControl()
   if (musicOn){
     player.close();
     musicOn = false;
+    nuovogioco.setSound();
   }
   else  {
     player = minim.loadFile("file.mp3", 2048);
     player.play();
     musicOn = true;
+    nuovogioco.setSound();
   }
 }

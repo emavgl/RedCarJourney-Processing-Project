@@ -1,8 +1,9 @@
 import ddf.minim.*;
 
 AudioPlayer player2;
-AudioPlayer coinplayer;
 Minim minimcoin;//audio context
+
+AudioPlayer carPlayer;
 
 class Game
 {
@@ -15,6 +16,7 @@ class Game
   private int carIndex = 0;
   private int indexPrimaCoin = 0;
   private int indexPrimaCar = 0;
+  private boolean soundOn = false;
   
   public Game()
   {
@@ -23,7 +25,7 @@ class Game
     enemyCars = new MyCar[4]; 
     coins = new MyCoin[4];
     minimcoin = new Minim(this);
-    player2 = minim.loadFile("coin.wav", 1024);
+    setSound();
   }
   
   public void CreateMyCar(int posX, int posY)
@@ -34,6 +36,22 @@ class Game
   public MyCar getMainCar()
   {
     return mainCar;
+  }
+  
+  public void setSound()
+  {
+    if (!soundOn)
+    {
+      player2 = minim.loadFile("coin.wav", 1024);
+      carPlayer = minim.loadFile("car.wav", 1000);
+      soundOn = true;
+    }
+    else
+    {
+      player2.close();
+      carPlayer.close();
+      soundOn = false;
+    }
   }
   
   public void nuovaMoneta(int type)
@@ -50,8 +68,8 @@ class Game
   public void scendiMonete()
   {
     Boolean trovato = false;
-int x = (int)random(62, 842);
-        int y = (int)random(-1300, -300);
+    int x = (int)random(62, 842);
+    int y = (int)random(-1300, -300);
     int fine = 4;
     if (coinIndex < 4) { fine = coinIndex; } 
     for (int i = 0; i < fine; i++)
@@ -191,7 +209,11 @@ int x = (int)random(62, 842);
            }
            enemyCars[i].setPosition(x, y);
            indexPrimaCar++;
+           
+          carPlayer.rewind();
+          carPlayer.play();
         }
+        
         
   }
   
