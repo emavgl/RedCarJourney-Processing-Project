@@ -8,4 +8,3 @@ The Game is available in two different versions:
 Special options:
 Press 'M' to stop music and sounds
 Press 'N' to restart
-
