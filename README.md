@@ -6,5 +6,5 @@ The Game is available in two different versions:
 - PC with keyboard controls (not with the last features)
 
 Special options:
-Press 'M' to stop music and sounds
-Press 'N' to restart
+- Press 'M' to stop music and sounds
+- Press 'N' to restart
